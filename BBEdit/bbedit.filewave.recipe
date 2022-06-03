@@ -5,17 +5,17 @@
 	<key>Description</key>
 	<string>Downloads latest version of BBEdit and imports into FileWave.</string>
 	<key>Identifier</key>
-	<string>com.github.afcomputersys.filewave.bbedit</string>
+	<string>afcomputersys.filewave.bbedit</string>
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.afcomputersys.download.bbedit</string>
+	<string>afcomputersys.download.bbedit</string>
     <key>Input</key>
 	<dict>
 		<key>NAME</key>
 		<string>BBEdit</string>
         <key>fw_app_bundle_id</key>
-        <string>com.github.afcomputersys.filewave.bbedit</string>
+        <string>afcomputersys.filewave.bbedit</string>
         <key>fw_destination_root</key>
         <string>/Applications/BBEdit.app</string>
 	</dict>
