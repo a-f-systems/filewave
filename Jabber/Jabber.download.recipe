@@ -14,6 +14,8 @@
 		<string>Cisco Jabber</string>
 		<key>NAME</key>
 		<string>Jabber</string>
+		<key>SEARCH_URL</key>
+		<string>https://www.webex.com/downloads/jabber.html</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
