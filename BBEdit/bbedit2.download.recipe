@@ -18,11 +18,11 @@
         <dict>
             <key>Arguments</key>
             <dict>
-                <key>product_name</key>
-                <string>bbedit</string>
-            </dict>
-            <key>Processor</key>
-            <string>BarebonesURLProvider</string>
+				<key>appcast_url</key>
+				<string>https://versioncheck.barebones.com/BBEdit.xml</string>
+			</dict>
+			<key>Processor</key>
+			<string>SparkleUpdateInfoProvider</string>
         </dict>
         <dict>
             <key>Arguments</key>
