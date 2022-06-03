@@ -12,15 +12,15 @@ See the following URLs for more info:
     http://ftp.mozilla.org/pub/firefox/releases/latest-esr/README.txt
     http://ftp.mozilla.org/pub/firefox/releases/latest-beta/README.txt</string>
     <key>Identifier</key>
-    <string>com.github.afcomputersys.download.Firefox-ESR-DE</string>
+    <string>com.github.autopkg.download.firefox-rc-en_US</string>
     <key>Input</key>
     <dict>
         <key>RELEASE</key>
-        <string>firefox-esr-latest-ssl</string>
+        <string>latest</string>
         <key>LOCALE</key>
-        <string>de</string>
+        <string>en-US</string>
         <key>NAME</key>
-        <string>Firefox-ESR-DE</string>
+        <string>Firefox</string>
     </dict>
     <key>MinimumVersion</key>
     <string>2.0</string>
@@ -30,7 +30,7 @@ See the following URLs for more info:
             <key>Arguments</key>
             <dict>
                 <key>product_name</key>
-                <string>Firefox-ESR-DE</string>
+                <string>firefox</string>
                 <key>release</key>
                 <string>%RELEASE%</string>
                 <key>locale</key>
