@@ -11,7 +11,7 @@
 		<key>LOCALE</key>
 		<string>de</string>
 		<key>NAME</key>
-		<string>Firefox-DE</string>
+		<string>Firefox-ESR-DE</string>
 		<key>fw_app_bundle_id</key>
 		<string>com.github.afcomputersys.download.firefox-ESR-DE</string>
 		<key>fw_destination_root</key>
